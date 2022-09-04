@@ -1,14 +1,13 @@
 ---
 layout: post
-title: 这是一篇博客文章模板
-date: 2015-3-02
+title: Magic&Magic2.0正式发布！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+date: 2022-9-04
 categories: blog
-tags: [标签一,标签二]
-description: 文章金句。
+tags: [游戏发布,游戏开发]
+description: 
 ---
 
-这里是博客正文。
-
+下载地址：https://www.jianguoyun.com/p/DQlMaSMQgqDzChjN29QEIAA
 
 
 
